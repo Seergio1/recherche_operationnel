@@ -1,0 +1,7 @@
+#création d'environnement vituel
+python -m venv venv
+
+#Activer l'environnement
+.\venv\Scripts\activate
+
+pip install networkx matplotlib 
