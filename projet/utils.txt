@@ -4,4 +4,4 @@ python -m venv venv
 #Activer l'environnement
 .\venv\Scripts\activate
 
-pip install networkx matplotlib 
+python -m pip install networkx matplotlib scipy pulp
